@@ -1,0 +1,5 @@
+browsername=chrome
+url=http://adactin.com/HotelApp/
+wait=30
+dbUserName=admin
+dbPassWord=admin
