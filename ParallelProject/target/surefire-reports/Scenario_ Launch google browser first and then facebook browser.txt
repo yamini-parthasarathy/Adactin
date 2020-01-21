@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Launch google browser first and then facebook browser
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.901 s - in Scenario: Launch google browser first and then facebook browser

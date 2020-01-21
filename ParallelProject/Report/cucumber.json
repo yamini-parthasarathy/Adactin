@@ -1,0 +1,34 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Launch google browser first and then facebook browser",
+        "description": "",
+        "id": "launch-browser-parallelly;launch-google-browser-first-and-then-facebook-browser",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 29071481200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user launch google application url",
+            "match": {
+              "location": "Test2.user_launch_google_application_url()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      }
+    ],
+    "name": "Launch browser parallelly",
+    "description": "",
+    "id": "launch-browser-parallelly",
+    "keyword": "Feature",
+    "uri": "Parallel.feature"
+  }
+]

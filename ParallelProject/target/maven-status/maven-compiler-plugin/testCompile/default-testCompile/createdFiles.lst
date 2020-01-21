@@ -1,0 +1,7 @@
+com\parallel\runner\RunnerTest1.class
+com\parallel\base\BaseClass.class
+com\parallel\runner\RunnerTest2.class
+com\parallel\helper\ConfigurationReader.class
+com\parallel\stepdefinition\Test1.class
+com\parallel\stepdefinition1\Test2.class
+com\parallel\helper\FileReaderManager.class
